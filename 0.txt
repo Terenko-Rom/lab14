@@ -1,0 +1,436 @@
+
+
+
+
+Текст — Википедия
+(function(){var className="client-js";var cookie=document.cookie.match(/(?:^|; )ruwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"7de9db32-ed84-41da-b43f-319f99243ca9","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Текст","wgTitle":"Текст","wgCurRevisionId":141003824,"wgRevisionId":141003824,"wgArticleId":7578,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":
+"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Статьи к переработке","Википедия:Статьи с шаблонами недостатков по алфавиту","Википедия:Статьи с разделами без ссылок на источники с октября 2014 года","Википедия:Статьи без источников (не распределённые по типам)","Статьи со ссылками на Викисловарь","Статьи со ссылками на Викицитатник","Статьи со ссылками на Викисклад","Википедия:Статьи без ссылок на источники с мая 2011 года","Страницы, использующие волшебные ссылки ISBN","Текст","Психолингвистика"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext",
+"wgRelevantPageName":"Текст","wgRelevantArticleId":7578,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":false,"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":141003824,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgRelatedArticlesCompat":[],"wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgVector2022LanguageInHeader":false,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q234460","wgCheckUserClientHintsHeadersJsApi":["architecture",
+"bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"ext.gadget.common-site":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","mediawiki.codex.messagebox.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","codex-search-styles":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced",
+"ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.navboxDefaultGadgets","ext.gadget.wikibugs","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.checkUser.clientHints","ext.growthExperiments.SuggestedEditSession","oojs-ui.styles.icons-media","oojs-ui-core.icons","wikibase.sidebar.tracking"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	Текст
+	
+		Материал из Википедии — свободной энциклопедии
+		
+		
+		
+		
+		Перейти к навигации
+		Перейти к поиску
+		У этого термина существуют и другие значения, см. Текст (значения).
+Пример текста
+Текст (от лат. textus — ткань; сплетение, сочетание) — зафиксированная на каком-либо материальном носителе человеческая мысль; в общем плане связная и полная последовательность символов.
+Существуют две основные трактовки понятия «текст»: имманентная (расширенная, философски нагруженная) и репрезентативная (более частная). Имманентный подход подразумевает отношение к тексту как к автономной реальности, нацеленность на выявление его внутренней структуры. Репрезентативный — рассмотрение текста как особой формы представления информации о внешней тексту действительности.
+В лингвистике термин «текст» используется в широком значении, включая и образцы устной речи. Восприятие текста изучается в рамках лингвистики текста и психолингвистики.
+Так, например, И. Р. Гальперин определяет текст следующим образом: «Это письменное сообщение, объективированное в виде письменного документа, состоящее из ряда высказываний, объединённых разными типами лексической, грамматической и логической связи, имеющее определённый модальный характер, прагматическую установку и соответственно литературно обработанное»[1].
+
+Содержание
+
+1 Признаки текста
+
+1.1 Членимость
+1.2 Смысловая цельность текста
+
+
+2 Стили и типы текста
+
+2.1 Функциональные стили
+2.2 По типу
+
+
+3 Примечания
+4 Литература
+
+
+
+Признаки текста[править | править код]
+Членимость[править | править код]
+.mw-parser-output .ambox{border:1px solid var(--border-color-base,#a2a9b1);border-left:10px solid #36c;background:var(--background-color-neutral-subtle,#f8f9fa);box-sizing:border-box;margin:0 10%}html body.mediawiki.skin-minerva .mw-parser-output .ambox{border-width:0 0 0 4px}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid var(--border-color-error,#b32424);background-color:var(--background-color-error-subtle,#fee7e6)}.mw-parser-output .ambox-delete{border-left:10px solid var(--border-color-error,#b32424)}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid var(--color-warning,#edab00)}.mw-parser-output .ambox-good{border-left:10px solid #66cc44}.mw-parser-output .ambox-discussion{border-left:10px solid #339966}.mw-parser-output .ambox-merge{border-left:10px solid #9932cc}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}.mw-parser-output .ambox .mbox-textsmall-div{font-size:90%}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(max-width:1366px){.mw-parser-output .ambox{margin-left:6%;margin-right:6%}}@media(max-width:719px){.mw-parser-output .ambox{margin-left:0;margin-right:0}}Этот раздел должен быть полностью переписан.На странице обсуждения могут быть пояснения.
+Текст, в своем роде, состоит из некоторого количества предложений. Одно предложение, даже очень распространённое, сложное, текстом назвать нельзя, поскольку текст можно разделить на самостоятельные предложения, а части предложения сочетаются по законам синтаксиса сложного предложения, но не текста.
+Главный тезис — текст состоит из двух или более предложений.
+
+Смысловая цельность текста[править | править код]
+Основные статьи: Когерентность (лингвистика) и Когезия (лингвистика)
+В смысловой цельности текста отражаются те связи и зависимости, которые имеются в самой действительности (общественные события, явления природы, человек, его внешний облик и внутренний мир, предметы неживой природы и т. д.).
+Единство предмета речи — это тема высказывания. Тема — это смысловое ядро текста, конденсированное и обобщённое содержание текста.
+Понятие «содержание высказывания» связано с категорией информативности речи и присуще только тексту. Оно сообщает читателю индивидуально-авторское понимание отношений между явлениями, их значимости во всех сферах придают ему смысловую цельность.
+В большом тексте ведущая тема распадается на ряд составляющих подтем; подтемы членятся на более дробные, на абзацы (микротемы).
+Завершённость высказывания связана со смысловой цельностью текста. Показателем законченности текста является возможность подобрать к нему заголовок, отражающий его содержание.
+Таким образом, из смысловой цельности текста вытекают следующие признаки текста:
+
+Текст — это высказывание на определённую тему;
+В тексте реализуется замысел говорящего, основная мысль;
+Текст любого размера — это относительно автономное (законченное) высказывание;
+Предложения логически связаны между собой;
+К тексту можно подобрать заголовок;
+Правильно оформленный текст обычно имеет начало и конец.
+Стили и типы текста[править | править код]
+В разделе не хватает ссылок на источники (см. рекомендации по поиску). Информация должна быть проверяема, иначе она может быть удалена. Вы можете отредактировать статью, добавив ссылки на авторитетные источники в виде сносок.  (28 октября 2014)
+Минимальный текст, имеющий смысл, называется записью. Также такой текст может называться заметкой.
+
+Функциональные стили[править | править код]
+Основная статья: Функциональный стиль речи
+Научный стиль
+Разговорный стиль
+Художественный стиль
+Публицистический стиль
+Официально-деловой стиль
+По типу[править | править код]
+Повествование
+Описание
+Рассуждение
+Примечания[править | править код]
+
+
+↑ Гальперин И. Р. О понятии «текст» // Материалы научной конференции «Лингвистика текста».— Т. 1.— М., 1974.— С. 67.
+
+
+Литература[править | править код]
+.mw-parser-output .ts-Родственные_проекты{clear:right;float:right;width:19em;box-sizing:border-box;margin:0 0 .5em 1em;padding:.4em;background:var(--background-color-neutral-subtle,#f8f9fa);border:1px solid var(--border-color-base,#a2a9b1);font-size:90%}.mw-parser-output .ts-Родственные_проекты-header{margin-bottom:.2em;padding:.2em .6em;font-size:110%}.mw-parser-output .ts-Родственные_проекты-item{display:flex;padding:.2em .6em}.mw-parser-output .ts-Родственные_проекты-image{min-width:24px;display:inline-block;margin-right:.4em;flex:none;vertical-align:top;text-align:center}.mw-parser-output .ts-Родственные_проекты-image img{vertical-align:middle}.mw-parser-output .ts-Родственные_проекты-label{align-self:center}@media(max-width:719px){.mw-parser-output .ts-Родственные_проекты{clear:none;float:none;width:auto;margin-left:0;margin-right:0}}Текст:Значения в ВикисловареЦитаты в ВикицитатникеМедиафайлы на Викискладе
+.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .citation:target{background-color:rgba(0,127,255,0.133)}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/12px no-repeat}body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-free a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-limited a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-registration a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .id-lock-subscription a,body:not(.skin-timeless):not(.skin-minerva) .mw-parser-output .cs1-ws-icon a{background-size:contain;padding:0 1em 0 0}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#d33)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#d33)}.mw-parser-output .cs1-maint{display:none;color:#085;margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}html.skin-theme-clientpref-night .mw-parser-output .cs1-maint{color:#18911f}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .cs1-maint{color:#18911f}}Текст // Литературная энциклопедия терминов и понятий / Под ред. А. Н. Николюкина. — Институт научной информации по общественным наукам РАН: Интелвак, 2001. — Стб. 1063—1064. — 1596 с. — ISBN 5-93264-026-X.
+Гальперин И. Р. Текст как объект лингвистического исследования. — М.: Наука, 1981.
+Каменская О. Л. Текст и коммуникация. — М.: Высшая школа, 1990.
+Топоров В. Н. Пространство и текст // Текст: семантика и структура. — М., 1983. — С. 227—284.
+Сорокин Ю. А. Психолингвистические аспекты изучения текста. — М.: Наука, 1985.
+Лукин В. А. Художественный текст: Основы теории и элементы анализа. — М.: Ось-89, 1999.
+Чернявская В.Е. Лингвистика текста: поликодовость, интертекстуальность, интердискурсивность. М.: УРСС. 2009. -  ISBN 978-5-397-00289-9.
+Чернявская В.Е. Лингвистика текста. Лингвистика дискурса. - М.: ЛЕНАНД. 2018. - ISBN 978-5-9710-4892-3.
+В статье не хватает ссылок на источники (см. рекомендации по поиску). Информация должна быть проверяема, иначе она может быть удалена. Вы можете отредактировать статью, добавив ссылки на авторитетные источники в виде сносок.  (15 мая 2011)
+Ссылки на внешние ресурсы   Словари и энциклопедии
+Австрийская музыкальная
+Большая датская
+Большая российская (старая версия)
+Кругосвет
+Britannica (онлайн)
+В библиографических каталогах
+GND: 4059596-1
+NKC: ph126631, ph124767
+
+СемиотикаОсновное
+(Языковой) знак
+десигнат
+денотат
+референт
+коннотация
+План выражения и план содержания
+Означаемое
+Означающее
+Значение
+Значимость
+Семиозис
+Семиосфера
+Семантика
+Синтаксис
+Прагматика
+Персоналии
+Р. Барт
+А. Греймас
+Д. Дили
+Л. Ельмслев
+В. В. Иванов
+Р. Кевельзон
+К. Л. Кулль
+Ю. М. Лотман
+Ч. У. Моррис
+Ч. С. Пирс
+Ф. де Соссюр
+В. Н. Топоров
+Г. Фреге
+Т. Шебёк
+Ю. А. Шрейдер
+У. Эко
+Р. О. Якобсон
+Концепции
+Курс общей лингвистики
+Теория знака Гуссерля
+Парижская семиотическая школа
+Семиотический квадрат
+Московско-тартуская семиотическая школа
+
+Прочее
+Биосемиотика
+Зоосемиотика
+Знаковая система
+Лингвистика
+Текст
+Социосемиотика
+Этносемиотика
+Семиотика культуры
+кино
+мода
+Язык
+Языковая система
+
+Источник — https://ru.wikipedia.org/w/index.php?title=Текст&oldid=141003824
+		Категории: ТекстПсихолингвистикаСкрытые категории: Википедия:Статьи к переработкеВикипедия:Статьи с шаблонами недостатков по алфавитуВикипедия:Статьи с разделами без ссылок на источники с октября 2014 годаВикипедия:Статьи без источников (не распределённые по типам)Статьи со ссылками на ВикисловарьСтатьи со ссылками на ВикицитатникСтатьи со ссылками на ВикискладВикипедия:Статьи без ссылок на источники с мая 2011 годаСтраницы, использующие волшебные ссылки ISBN
+	
+
+
+
+	Навигация
+	
+		
+
+	
+		Персональные инструменты
+	
+	
+		
+		
+			
+			Вы не представились системеОбсуждениеВкладСоздать учётную записьВойти
+		
+		
+	
+
+
+		
+			
+
+	
+		Пространства имён
+	
+	
+		
+		
+			
+			СтатьяОбсуждение
+		
+		
+	
+
+
+			
+
+	
+	
+		русский
+	
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+		
+		
+			
+
+	
+		Просмотры
+	
+	
+		
+		
+			
+			ЧитатьПравитьПравить кодИстория
+		
+		
+	
+
+
+			
+
+	
+	
+		Ещё
+	
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+			
+
+	Поиск
+	
+		
+			
+			
+			
+			
+		
+	
+
+
+		
+	
+	
+
+	
+		
+	
+	
+
+	
+		Навигация
+	
+	
+		
+		
+			
+			Заглавная страницаСодержаниеИзбранные статьиСлучайная статьяТекущие событияПожертвовать
+		
+		
+	
+
+
+	
+
+	
+		Участие
+	
+	
+		
+		
+			
+			Сообщить об ошибкеКак править статьиСообществоФорумСвежие правкиНовые страницыСправка
+		
+		
+	
+
+
+
+	
+		Инструменты
+	
+	
+		
+		
+			
+			Ссылки сюдаСвязанные правкиСлужебные страницыПостоянная ссылкаСведения о страницеЦитировать страницуПолучить короткий URLСкачать QR-код
+		
+		
+	
+
+
+
+	
+		Печать/экспорт
+	
+	
+		
+		
+			
+			Скачать как PDFВерсия для печати
+		
+		
+	
+
+
+
+	
+		В других проектах
+	
+	
+		
+		
+			
+			ВикискладВикицитатникЭлемент Викиданных
+		
+		
+	
+
+
+	
+
+	
+		На других языках
+	
+	
+		
+		
+			
+			AfrikaansالعربيةAsturianuAzərbaycancaБеларускаяБеларуская (тарашкевіца)БългарскиBosanskiCatalàНохчийнکوردیČeštinaЧӑвашлаDanskDeutschEnglishEsperantoEspañolEestiEuskaraفارسیSuomiFrançaisFryskGalegoעבריתHrvatskiMagyarՀայերենBahasa IndonesiaIdoÍslenskaItaliano日本語Қазақша한국어КыргызчаLatinaLimburgsLietuviųLatviešuМакедонскиКырык марыNederlandsNorsk nynorskNorsk bokmålOccitanਪੰਜਾਬੀPolskiPortuguêsRomânăСаха тылаSrpskohrvatski / српскохрватскиSlovenčinaSlovenščinaShqipСрпски / srpskiSvenskaKiswahiliTürkmençeTagalogTürkçeУкраїнськаOʻzbekcha / ўзбекчаTiếng Việt中文閩南語 / Bân-lâm-gú粵語
+		
+		Править ссылки
+	
+
+
+
+
+
+
+
+	
+	 Эта страница в последний раз была отредактирована 23 октября 2024 в 18:49.
+	Текст доступен по лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA); в отдельных случаях могут действовать дополнительные условия.
+Подробнее см. Условия использования.
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации «Фонд Викимедиа» (Wikimedia Foundation, Inc.)
+
+
+	
+	Политика конфиденциальности
+	Описание Википедии
+	Отказ от ответственности
+	Свяжитесь с нами
+	Кодекс поведения
+	Разработчики
+	Статистика
+	Заявление о куки
+	Мобильная версия
+
+
+	
+	
+	
+
+
+
+
+(RLQ=window.RLQ||[]).push(function(){mw.log.warn("This page is using the deprecated ResourceLoader module \"codex-search-styles\".\n[1.43] Use a CodexModule with codexComponents to set your specific components used: https://www.mediawiki.org/wiki/Codex#Using_a_limited_subset_of_components");mw.config.set({"wgHostname":"mw-web.eqiad.main-6fcbf9d8c6-6gs5t","wgBackendResponseTime":192,"wgPageParseReport":{"limitreport":{"cputime":"0.316","walltime":"0.444","ppvisitednodes":{"value":2257,"limit":1000000},"postexpandincludesize":{"value":50814,"limit":2097152},"templateargumentsize":{"value":4732,"limit":2097152},"expansiondepth":{"value":14,"limit":100},"expensivefunctioncount":{"value":6,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":21654,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  382.186      1 -total"," 18.45%   70.506      1 Шаблон:Внешние_ссылки"," 17.65%   67.462      3 Шаблон:Ambox"," 16.91%   64.637      1 Шаблон:Переписать_раздел"," 16.91%   64.612      6 Шаблон:Книга"," 15.32%   58.567      1 Шаблон:Родственные_проекты"," 12.51%   47.809      1 Шаблон:Нет_источников_в_разделе"," 10.58%   40.417      1 Шаблон:Нет_источников","  9.66%   36.915      2 Шаблон:Сортировка:_статьи_без_источников","  9.36%   35.754      1 Шаблон:Другие_значения"]},"scribunto":{"limitreport-timeusage":{"value":"0.170","limit":"10.000"},"limitreport-memusage":{"value":4055583,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-6fcbf9d8c6-tlfnh","timestamp":"20241031112049","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0422\u0435\u043a\u0441\u0442","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%A2%D0%B5%D0%BA%D1%81%D1%82","sameAs":"http:\/\/www.wikidata.org\/entity\/Q234460","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q234460","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-06-24T20:19:06Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/18\/Mimnermus.png","headline":"\u0441\u0432\u044f\u0437\u043d\u0430\u044f \u0438 \u043f\u043e\u043b\u043d\u0430\u044f \u043f\u043e\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0441\u0438\u043c\u0432\u043e\u043b\u043e\u0432"}
+
